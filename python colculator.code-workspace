@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../.ipython/profile_default/db"
+		},
+		{
+			"path": "../../../.ipython/profile_default/log"
+		},
+		{
+			"path": "../../../.ipython/profile_default/pid"
+		},
+		{
+			"path": "../../../.ipython/profile_default/security"
+		}
+	]
+}
